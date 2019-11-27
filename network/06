@@ -1,0 +1,6 @@
+the complete path is:
+
+/etc/resolv.conf
+
+To show the content of the file simply use:
+cat /etc/resolv.conf

@@ -1,0 +1,4 @@
+/etc/hostname and /etc/hosts
+
+cat /etc/hostname
+cat /etc/hosts

@@ -1,0 +1,4 @@
+the file(s) that contain the RSA key(s) can be found in the /.ssh/ file in the user's home directory
+
+cat /home/gmolin/.ssh/id_rsa
+cat /home/gmolin/.ssh/id_rsa.pub

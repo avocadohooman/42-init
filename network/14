@@ -1,0 +1,9 @@
+first I went to /etc/ to see what files are in there. then I found the "hosts" entry and Google confirmed that this files contains the local DNS entries
+
+cat /etc/hosts:
+
+10.51.1.10       cdn.42.fr
+10.51.1.10    cdn.intra.42.fr
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost

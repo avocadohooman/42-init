@@ -1,0 +1,6 @@
+nslookup www.42.fr 8.8.8.8
+
+Name:	www-lb.42.fr
+Address: 163.172.250.13
+Name:	www-lb.42.fr
+Address: 163.172.250.12

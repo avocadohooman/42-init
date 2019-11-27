@@ -1,0 +1,7 @@
+I need to add the following line to /etc/hosts file:
+
+46.19.122.85 intra.42.fr
+
+by using cat "46.19.122.85 intra.42.fr" >> /etc/hosts
+
+but I can't due to lack of admin right.
