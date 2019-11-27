@@ -1,2 +1,2 @@
-graphics session: login as the new user on boot and password as prompted"
+graphics session: (reboot if necessary) login as the new user on boot and password as prompted"
 ssh session: ssh [new_user]@127.0.0.1 -p 2222

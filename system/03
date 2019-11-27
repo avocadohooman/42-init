@@ -1,4 +1,4 @@
 /etc/hostname and /etc/hosts
 
-cat /etc/hostname
-cat /etc/hosts
+sudo nano /etc/hostname
+sudo nano /etc/hosts

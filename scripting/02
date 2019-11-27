@@ -1,6 +1,6 @@
 #!/bin/bash
 
-user="$(w | grep -v tty | awk 'NR>2{print $1 "\t" $2 | awk '{print $1}')"
+user="$(w | grep -v tty | awk 'NR>2{print $1}')"
 terminal="$(w | grep -v tty | awk 'NR>2{print $2}')"
 echo $terminal
 echo $user
